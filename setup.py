@@ -16,7 +16,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(
-    name         = 'lsm9ds1_python',
+    name         = 'lsm9ds1-python',
     version      = '1.0.2',
     author       = 'Maciej Biskup',
     author_email = 'mbiskup123@gmail.com',
