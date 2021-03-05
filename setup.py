@@ -17,12 +17,12 @@ classifiers = ['Development Status :: 4 - Beta',
 
 setup(
     name         = 'lsm9ds1_python',
-    version      = '1.0.1',
+    version      = '1.0.2',
     author       = 'Maciej Biskup',
     author_email = 'mbiskup123@gmail.com',
     description  = "Library for lsm9ds1",
     long_description=long_description,
-    #url          = 'https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python/',
+    url          = 'https://github.com/electron001/lsm9ds1/',
     license      = 'GNU General Public License v3.0',
     classifiers  = classifiers,
     packages     = find_packages()
