@@ -11,7 +11,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Operating System :: POSIX :: Linux',
                'License :: OSI Approved :: Apache Software License',
                'Intended Audience :: Developers',
-               'Programming Language :: Python :: 2.7',
+               'Programming Language :: Python :: 3.8',
                'Topic :: Software Development',
                'Topic :: System :: Hardware']
 
