@@ -9,7 +9,7 @@ except:
 
 classifiers = ['Development Status :: 4 - Beta',
                'Operating System :: POSIX :: Linux',
-               'License :: OSI Approved :: Apache Software License',
+               'License :: OSI Approved :: GNU General Public License v3.0',
                'Intended Audience :: Developers',
                'Programming Language :: Python :: 3.8',
                'Topic :: Software Development',
